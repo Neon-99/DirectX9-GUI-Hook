@@ -1,4 +1,4 @@
-#Features
+# Features
 
 
 ✔️ A small, but simple GUI design documentation 
